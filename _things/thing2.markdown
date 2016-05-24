@@ -1,7 +1,7 @@
 ---
 title: Dummy Thing 2
 description: Yet another dummy thing
-thing_date: 2016-04-02T00:00:00.000Z
+thing_date: 2016-06-01T00:00:00.000Z
 ---
 
 
